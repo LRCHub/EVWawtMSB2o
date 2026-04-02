@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "melt bitter",
   "base_artist": "さとうもか",
-  "createdAt": "2026-03-19T17:30:07.090547Z",
+  "createdAt": "2026-04-02T05:46:33.986380Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,15 @@
       "artist": "さとうもか",
       "has_synced": true,
       "path": "select/localdb_01_melt_bitter_さとうもか.lrc",
+      "repo_name": "EVWawtMSB2o"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "melt bitter",
+      "artist": "さとうもか",
+      "has_synced": true,
+      "path": "select/localdb_02_melt_bitter_さとうもか.lrc",
       "repo_name": "mwTmvdIeYnE"
     }
   ]
